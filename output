@@ -1,0 +1,11 @@
+Pushed: Plate
+Pushed: Bowl
+Pushed: Saucer
+Stack is full! Cannot push: Mug
+Stack size: 3
+Top of stack: Saucer
+Popped: Saucer
+Popped: Bowl
+Popped: Plate
+Stack is empty! Nothing to pop.
+Stack size: 0
